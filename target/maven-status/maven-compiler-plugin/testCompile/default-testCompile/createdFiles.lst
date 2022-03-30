@@ -1,0 +1,7 @@
+com\capstone\TestRunner.class
+StepDefination\Login.class
+StepDefination\Register.class
+com\log4j\test\Logtest.class
+com\log4j\test\TestRestAssured.class
+com\log4j\test\InitLogger.class
+StepDefination\bookings.class

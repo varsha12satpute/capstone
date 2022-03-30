@@ -1,0 +1,18 @@
+DEBUG	2022-03-29 22:11:48,531	0	com.log4j.test.TestRestAssured	[main]	Select Flight
+DEBUG	2022-03-29 22:11:50,644	2113	com.log4j.test.TestRestAssured	[main]	Login
+DEBUG	2022-03-29 22:11:52,727	4196	com.log4j.test.TestRestAssured	[main]	Register
+DEBUG	2022-03-29 22:11:53,170	4639	com.log4j.test.TestRestAssured	[main]	Complete purchase
+DEBUG	2022-03-29 22:11:53,208	4677	com.log4j.test.TestRestAssured	[main]	See Bookings
+DEBUG	2022-03-30 13:50:36,549	0	com.log4j.test.TestRestAssured	[main]	Select Flight
+DEBUG	2022-03-30 13:50:36,608	59	com.log4j.test.TestRestAssured	[main]	Login
+DEBUG	2022-03-30 13:50:36,708	159	com.log4j.test.TestRestAssured	[main]	Register
+DEBUG	2022-03-30 13:50:36,739	190	com.log4j.test.TestRestAssured	[main]	Complete purchase
+DEBUG	2022-03-30 13:50:36,771	222	com.log4j.test.TestRestAssured	[main]	See Bookings
+DEBUG	2022-03-30 14:03:29,530	0	com.log4j.test.TestRestAssured	[main]	Select Flight
+DEBUG	2022-03-30 14:03:29,591	61	com.log4j.test.TestRestAssured	[main]	Login
+DEBUG	2022-03-30 14:03:29,628	98	com.log4j.test.TestRestAssured	[main]	Complete purchase
+DEBUG	2022-03-30 14:03:29,651	121	com.log4j.test.TestRestAssured	[main]	See Bookings
+DEBUG	2022-03-30 14:20:20,051	0	com.log4j.test.TestRestAssured	[main]	Select Flight
+DEBUG	2022-03-30 14:20:20,105	54	com.log4j.test.TestRestAssured	[main]	Login
+DEBUG	2022-03-30 14:20:20,153	102	com.log4j.test.TestRestAssured	[main]	Complete purchase
+DEBUG	2022-03-30 14:20:20,178	127	com.log4j.test.TestRestAssured	[main]	See Bookings
